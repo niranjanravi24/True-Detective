@@ -1,5 +1,5 @@
 episode 1
 
-first six
-second six
-third four
+first 1
+second 2
+third 3
